@@ -8,3 +8,8 @@ If you are a student of Rajiv Gandhi Institute of technology, you can join RITct
 We use GitHub Issues for easy collaboration:
 * View all conversations [here](https://github.com/RITct/RITct-discussions/issues)
 * Please [click here](https://github.com/RITct/RITct-discussions/issues/new) and type your conversation title and message. Dont forget to mention the required people.
+
+### Don't miss any discussions
+Please watch this repository, so that you won't miss any discussions:
+
+![watch](https://help.github.com/assets/images/help/notifications/watcher_picker.gif)
