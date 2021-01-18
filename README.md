@@ -3,6 +3,7 @@ Repository for team members to discuss about team and team project statuses.
 
 # Join RITCt
 If you are a student of Rajiv Gandhi Institute of technology, you can join RITct. 
+
 [![join now](http://imwarriortools.com/wp-content/uploads/2014/05/JoinNow.jpg)](https://github.com/RITct/RITct-discussions/discussions/25)
 ### How to start a conversation
 We use GitHub Issues for easy collaboration:
